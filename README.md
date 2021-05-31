@@ -1,5 +1,3 @@
-## Github Workshop
-
 - Cloning a repository clone the repository onto your computer (different than downloading it directly)
   1. git clone <link>
 
