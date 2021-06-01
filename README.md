@@ -19,12 +19,13 @@
   3. git merge origin <other branch>
 
 Merge Conflicts:
-- Scenario: You are trying to push your changes and you get this error:
+You are trying to push your changes and you get this error:
 ![Push Error](push.png)
 
 First pull:
 ```
 git pull
 ```
+
 You should get this:
-[Merge Conflict](merge_conflict.png)
+![Merge Conflict](merge_conflict.png)
