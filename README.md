@@ -18,8 +18,8 @@
   2. git checkout <branch you want to update>
   3. git merge origin <other branch>
 
-Merge Conflicts:
-You are trying to push your changes and you get this error:
+Merge Conflicts: \
+You are trying to push your changes and you get this error: \
 ![Push Error](push.png)
 
 First pull:
@@ -27,5 +27,5 @@ First pull:
 git pull
 ```
 
-You should get this:
+You should get this: \
 ![Merge Conflict](merge_conflict.png)
