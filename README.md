@@ -4,6 +4,7 @@ git clone <link>
 ```
 
 This is a feature
+Feature is ready
 
 - Switch to different branch
     1. if creating a new branch 
