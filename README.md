@@ -50,3 +50,8 @@ git pull
 
 You should get this: \
 ![Merge Conflict](merge_conflict.png)
+
+Why use branches? / How to use branches effectively?
+
+Main branch - Should always be functional
+Feature branch - Meant for development
