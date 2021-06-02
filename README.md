@@ -1,9 +1,9 @@
-Change
-
 - Cloning a repository clone the repository onto your computer (different than downloading it directly)
 ```
 git clone <link>
 ```
+
+This is a feature
 
 - Switch to different branch
     1. if creating a new branch 
