@@ -1,5 +1,25 @@
 - Cloning a repository clone the repository onto your computer (different than downloading it directly)
-``
+```
+git clone <link>
+```
+
+- Switch to different branch
+    1. if creating a new branch 
+    ```
+    git checkout -b"<name of branch>"
+    ```
+    2. if switching to a branch that already exists 
+    ```
+    git checkout <name of branch>
+    ```
+
+- Update local version of repository
+    ```
+    git pull origin <name of branch>
+    ```
+
+- Push changes from local to online repository
+    1. adds all changes
     ```
     git add .                                                        
     ```
